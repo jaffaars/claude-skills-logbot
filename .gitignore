@@ -1,0 +1,6 @@
+rapport-logs/
+*.log
+*.log.gz
+__pycache__/
+.venv/
+venv/
